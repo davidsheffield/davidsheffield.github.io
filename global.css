@@ -143,3 +143,48 @@ ul li {
 .time {
     font-variant: small-caps;
 }
+
+#account_links {
+    /* overflow: hidden; */
+    list-style-type: none;
+}
+
+#account_links li {
+    display: block;
+    float: left;
+    margin: 4px;
+}
+
+.social-media-icon {
+    background: url('sprites.png') no-repeat;
+}
+
+.icon-facebook {
+    width: 32px;
+    height: 32px;
+    background-position: 0px -32px;
+}
+
+.icon-twitter {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -32px;
+}
+
+.icon-github {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -32px;
+}
+
+a:hover .icon-facebook {
+    background-position: 0px 0px;
+}
+
+a:hover .icon-twitter {
+    background-position: -32px 0px;
+}
+
+a:hover .icon-github {
+    background-position: -64px 0px;
+}
