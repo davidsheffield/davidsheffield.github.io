@@ -1,142 +1,145 @@
 /*************************
-**
-** Global CSS for http://davidsheffield.github.io/
-**
-*************************/
+ **
+ ** Global CSS for http://davidsheffield.github.io/
+ **
+ *************************/
 
 body {
-	background-color: #FBFBFB;
-	padding: 0;
-	margin: 0;
-	border: 0;
+    background-color: #FBFBFB;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 
 #wrapper {
-	margin-left: auto;
-	margin-right: auto;
-	width: 980px;
-	background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    background-color: #ffffff;
 }
 
 #head {
-	background-color: #53709C;
-	color: #ffffff;
-	padding-top: 15px;
-	padding-bottom: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
-	font-family: Palatino, serif;
-	font-size: 2.8em;
+    background-color: #53709C;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Palatino, serif;
+    font-size: 2.8em;
 }
 
 #nav {
-	background-color: #53709C;
-	padding: 0;
-	font-family: Palatino, serif;
-	font-weight: bold;
-	font-size: 2empx;
-	height: 1.6em;
-	/* border-bottom: 1px dashed #000000; */
+    background-color: #53709C;
+    padding: 0;
+    font-family: Palatino, serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    height: 1.6em;
 }
 
 #nav ul {
-	border: 0;
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	text-align: center;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
 }
 
 #nav ul li {
-	display: block;
-	float: left;
-	text-align: center;
-	border: none;
-	margin: 0;
+    display: block;
+    float: left;
+    text-align: center;
+    border: none;
+    margin: 0;
 }
 
 #nav ul li a {
-	padding: 8px 12px 10px 12px;
-	text-decoration: none;
-	color: #DBC79F;
+    padding: 8px 12px 10px 12px;
+    text-decoration: none;
+    color: #DBC79F;
 }
 
 #nav ul li a:hover {
-	color: #DAB874;
+    color: #DAB874;
 }
 
 #current {
-	color: #ffffff;
-	padding: 8px 12px 10px 12px;
+    color: #ffffff;
+    padding: 8px 12px 10px 12px;
 }
 
 #text {
-	margin: 0px 0 0 0;
-	padding: 0 20px 10px 20px;
-	color: #000000;
-	font-family: helvetica, sans-serif;
-	font-size: 1em;
-	line-height: 1.25em;
+    margin: 0px 0 0 0;
+    padding: 0 20px 10px 20px;
+    color: #000000;
+    font-family: helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.25em;
 }
 
 #text p {
-	margin-top: 0.75em;
-	margin-bottom: 0.75em;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
 }
 
 a {
-	color: #880000;
-	text-decoration: none;
+    color: #880000;
+    text-decoration: none;
 }
 
 a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
+}
+
+a.code_repository {
+    font-weight: bold;
 }
 
 #pic {
-	width: 150px;
-	float: left;
-	margin-right: 10px;
+    width: 150px;
+    float: left;
+    margin-right: 10px;
 }
 
 h1 {
-	color: #000000;
-	font-size: 1.5em;
+    color: #000000;
+    font-size: 1.5em;
 }
 
 h2 {
-	color: #000000;
-	font-size: 1.2em;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
+    color: #000000;
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 ul {
-	margin-top: -12px;
+    margin-top: -12px;
 }
 
 ul li {
-	margin-top: 8px;
-	margin-bottom: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 #info {
-        border-collapse: collapse;
+    border-collapse: collapse;
 }
 
 #info td {
-	padding-bottom: 5px;
-	padding-right: 10px;
-	padding-left: 10px;
-	vertical-align: top;
-	margin: 0px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    vertical-align: top;
+    margin: 0px;
 }
 
 .info_field {
-        text-align: right;
-        border-right: 1px dashed #000000;
+    text-align: right;
+    border-right: 1px dashed #000000;
 }
 
 .time {
-	font-variant: small-caps;
+    font-variant: small-caps;
 }
