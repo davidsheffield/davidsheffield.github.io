@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/davidsheffield
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.davidsheffield.net
+  * I am davidsheffield (https://keybase.io/davidsheffield) on keybase.
+  * I have a public key ASDspAMIjwPM0h_CTsJNQvH9pPp8DgMG12QHkPUQ4fgRgwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012417ca1695935bb9d0032f720a3aa74e316307bca1c24505aa388a192510222d0a",
+            "host": "keybase.io",
+            "kid": "0120eca403088f03ccd21fc24ec24d42f1fda4fa7c0e0306d7640790f510e1f811830a",
+            "uid": "566a646bf2828ebe8ec36597f4814800",
+            "username": "davidsheffield"
+        },
+        "service": {
+            "hostname": "www.davidsheffield.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496933356,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496933344,
+        "hash": "e727c39fe4107f7a3230e9ca03fa968c8e351438d1378ebf3270853cb5ae35fe531f02b872d0abe058869f0d4a3ec516951e8123ae2edac71d8a5f661421981f",
+        "seqno": 1152755
+    },
+    "prev": "c115f3e8461ca6169a996e139c7b3a5061b7975cf40c4e3a37085fa99cfe1395",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7KQDCI8DzNIfwk7CTULx/aT6fA4DBtdkB5D1EOH4EYMKp3BheWxvYWTFAwR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMjQxN2NhMTY5NTkzNWJiOWQwMDMyZjcyMGEzYWE3NGUzMTYzMDdiY2ExYzI0NTA1YWEzODhhMTkyNTEwMjIyZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWNhNDAzMDg4ZjAzY2NkMjFmYzI0ZWMyNGQ0MmYxZmRhNGZhN2MwZTAzMDZkNzY0MDc5MGY1MTBlMWY4MTE4MzBhIiwidWlkIjoiNTY2YTY0NmJmMjgyOGViZThlYzM2NTk3ZjQ4MTQ4MDAiLCJ1c2VybmFtZSI6ImRhdmlkc2hlZmZpZWxkIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZGF2aWRzaGVmZmllbGQubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NjkzMzM1NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk2OTMzMzQ0LCJoYXNoIjoiZTcyN2MzOWZlNDEwN2Y3YTMyMzBlOWNhMDNmYTk2OGM4ZTM1MTQzOGQxMzc4ZWJmMzI3MDg1M2NiNWFlMzVmZTUzMWYwMmI4NzJkMGFiZTA1ODg2OWYwZDRhM2VjNTE2OTUxZTgxMjNhZTJlZGFjNzFkOGE1ZjY2MTQyMTk4MWYiLCJzZXFubyI6MTE1Mjc1NX0sInByZXYiOiJjMTE1ZjNlODQ2MWNhNjE2OWE5OTZlMTM5YzdiM2E1MDYxYjc5NzVjZjQwYzRlM2EzNzA4NWZhOTljZmUxMzk1Iiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAj8/k8vJttpXvIjx0siF4kyrtw4AuPQZV5x8Tz/cmGmmyB42/EaqXZUDHmzF1OvV9yFo4Pb4B7xZknz8T3YYZCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICRkSBLHTcYRt1omcB3AjRW5xfQ805v96aFM8gqWbNo6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidsheffield
+
+==================================================================
